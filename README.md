@@ -10,7 +10,7 @@ Thank you and Goodbye, <br>
 Regards,<br>
 Spanedea <br>
 
-<img src="spanedea.github.io/email-edited.png">
+<img src="https://github.com/Torukmacto74/spanedea.github.io/blob/master/email-edited.png">
 
 
 <!--You can use the [editor on GitHub](https://github.com/Torukmacto74/spanedea.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
