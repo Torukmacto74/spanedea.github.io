@@ -1,10 +1,21 @@
-## Welcome to GitHub Pages
+## Spanedea
 
-You can use the [editor on GitHub](https://github.com/Torukmacto74/spanedea.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<u>Notice of Shutdown</u>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello,
+Spanedea is no longer operational. We wish you success fo your future learning and teaching journey.			
+The website (www.spanedea.com) will no longer be available/accessible. <br>
+If you were a student or a tutor at Spanedea and have any specific queries, please send us an email at the email ID provided below.<br> 
+Thank you and Goodbye, <br>
+Regards,<br>
+Spanedea <br>
 
-### Markdown
+
+<!--You can use the [editor on GitHub](https://github.com/Torukmacto74/spanedea.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.-->
+
+<!--Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
+
+<!--### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -34,4 +45,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
